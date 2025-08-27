@@ -11,8 +11,7 @@ Explore the world of car rentals with the **Car Rental System**, a Java-based co
 📝 Rental History: Keep track of rentals, customers, and rental durations.
 
 
-#
-Contribute to the project's growth. Open issues, submit pull requests, and collaborate with the community.
+## Contribute to the project's growth. Open issues, submit pull requests, and collaborate with the community.
 
 ## Future Roadmap 🛤️
 
